@@ -1,5 +1,4 @@
 // NAME: JADONMICHAEL DE JESUS
-// PANTHER ID: 6176454
 // Every single miner method in the main class works and will find the specified pattern
 
 package main;
